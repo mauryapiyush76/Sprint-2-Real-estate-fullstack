@@ -2,5 +2,5 @@
 This repo contains the frontend and backend files of Real estate broking application
 # Team members-
 ## Piyush Mourya
-## Ravindra Singh Mongolia
+## Ravindra Singh 
 ## Soumya Mitra
